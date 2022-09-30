@@ -1,1 +1,3 @@
-title                    : "WindowsChuck"
+theme: jekyll-theme-minimal
+title: WindowsChuck
+description: Hello World, Hello Chuck
